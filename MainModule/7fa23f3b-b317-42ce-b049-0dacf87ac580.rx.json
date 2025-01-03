@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^\\d{2}/\\d{2}/\\d{4}$"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T12:02:04.3288503Z",
+  "ModifiedBy": 30,
+  "ModificationDate": "2024-12-18T12:24:15.529744Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "7fa23f3b-b317-42ce-b049-0dacf87ac580",
+  "Code": null,
+  "Name": "Date"
+}

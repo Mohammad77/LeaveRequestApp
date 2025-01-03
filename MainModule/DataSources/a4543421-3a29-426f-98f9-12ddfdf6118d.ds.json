@@ -1,0 +1,32 @@
+{
+  "TypeId": 4,
+  "IsSystem": false,
+  "IsBuiltIn": false,
+  "Host": "172.16.235.28,25521",
+  "Database": "Rousan_Request_DB",
+  "Port": 0,
+  "Password": "xXfVMswkobiCpkSn4mkRlAS7IboHZt3nhSlfv/7yrIw=",
+  "UserName": "sa",
+  "PrimaryKeyAttributeType": 2,
+  "EntityHistories": [],
+  "AttributesHistories": [],
+  "SyncHistories": [],
+  "AttributeMigrationTypes": [],
+  "Schemas": [
+    "dbo"
+  ],
+  "MigrationHistroyTableName": null,
+  "MigrationsTableName": "MaestroMigrations_a45434213a29426f98f912ddfdf6118d",
+  "HasHistories": false,
+  "IsEncrypted": true,
+  "CreatedBy": 30,
+  "CreationDate": "2024-12-19T18:16:28.5487865Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "a4543421-3a29-426f-98f9-12ddfdf6118d",
+  "Code": "",
+  "Name": "Rousan_Request_DS"
+}
