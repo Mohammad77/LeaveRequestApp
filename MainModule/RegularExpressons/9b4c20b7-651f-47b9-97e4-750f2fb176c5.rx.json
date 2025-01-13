@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^(0[1-9]|[1-2][0-9]|3[0-1])/(0[1-9]|1[0-2])/\\d{4}$"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2025-01-03T13:47:14.011844Z",
+  "ModifiedBy": 30,
+  "ModificationDate": "2025-01-03T13:47:20.2174498Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "9b4c20b7-651f-47b9-97e4-750f2fb176c5",
+  "Code": null,
+  "Name": "FromDate"
+}

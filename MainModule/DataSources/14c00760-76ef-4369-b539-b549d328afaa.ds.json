@@ -1,0 +1,230 @@
+{
+  "TypeId": 4,
+  "IsSystem": false,
+  "IsBuiltIn": false,
+  "Host": "172.16.235.28,25521",
+  "Database": "Rousan_Leave_Request_DB",
+  "Port": 0,
+  "Password": "xXfVMswkobiCpkSn4mkRlAS7IboHZt3nhSlfv/7yrIw=",
+  "UserName": "sa",
+  "PrimaryKeyAttributeType": 2,
+  "EntityHistories": [],
+  "AttributesHistories": [],
+  "SyncHistories": [
+    {
+      "Id": "a69acb4c-cdce-4f88-a17e-3b5c62b0f659",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "ae0e4d22-07fe-481b-8f74-282f6a6a7499",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "913c5958-2be3-4ebb-bffc-710b5f78c146",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "2165f000-7c3f-45ef-af35-f7101542d205",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "d2050ca2-61ab-4d1f-a3be-26fa929ec3ee",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "d461836b-9714-413c-882f-849cfb1be3e5",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "cea1ab4e-cf85-4314-a782-45d2ec52a3c6",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "b1e3a076-741d-4b83-a889-1f35b9ceb86f",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "9a4be974-ab20-4ffb-957f-48df93eb29b0",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "ba469a02-a0c8-497f-a646-b5c7afd75a9b",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "b321266e-91af-4e74-a90a-f79e4e4fecaf",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "b0a2137f-79c1-41fe-9c92-8095d170188d",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "5c9169e0-9a9e-42f0-9ddc-dd18206e7d5e",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "d9a90eb0-ef95-424a-a396-31ef70886a2b",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "d99db31d-bd11-4779-acc4-a8545dbbac2b",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "d90035ba-eb49-4e3b-bf46-9fedb91908df",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "5b304480-5008-4e7d-ae64-6c958b6c895b",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "23a4dd7e-b95b-4e62-a10f-a1c5ecbfae3f",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "d6b950e5-b573-4908-8d43-4b4a9d83e07c",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "52b67c86-8f7a-4308-9f1c-0f80648068f6",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "4ae884de-df9a-4b0d-a0f8-0c3a8e242131",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    },
+    {
+      "Id": "9ddd9a37-972e-4309-adf0-7f0752a429dd",
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4"
+    }
+  ],
+  "AttributeMigrationTypes": [
+    {
+      "Id": "ae0e4d22-07fe-481b-8f74-282f6a6a7499",
+      "TypeId": 8,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "913c5958-2be3-4ebb-bffc-710b5f78c146",
+      "TypeId": 4,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "2165f000-7c3f-45ef-af35-f7101542d205",
+      "TypeId": 4,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "d2050ca2-61ab-4d1f-a3be-26fa929ec3ee",
+      "TypeId": 1,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "d461836b-9714-413c-882f-849cfb1be3e5",
+      "TypeId": 8,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "b1e3a076-741d-4b83-a889-1f35b9ceb86f",
+      "TypeId": 1,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "9a4be974-ab20-4ffb-957f-48df93eb29b0",
+      "TypeId": 1,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "ba469a02-a0c8-497f-a646-b5c7afd75a9b",
+      "TypeId": 2,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "b321266e-91af-4e74-a90a-f79e4e4fecaf",
+      "TypeId": 2,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "5c9169e0-9a9e-42f0-9ddc-dd18206e7d5e",
+      "TypeId": 1,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "d9a90eb0-ef95-424a-a396-31ef70886a2b",
+      "TypeId": 1,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "d99db31d-bd11-4779-acc4-a8545dbbac2b",
+      "TypeId": 1,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "d90035ba-eb49-4e3b-bf46-9fedb91908df",
+      "TypeId": 1,
+      "SyncedInMigrationName": "EntitiesTest23a124855d9bec40679702048e0a594bc7",
+      "IsSynced": true
+    },
+    {
+      "Id": "23a4dd7e-b95b-4e62-a10f-a1c5ecbfae3f",
+      "TypeId": 1,
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4",
+      "IsSynced": true
+    },
+    {
+      "Id": "d6b950e5-b573-4908-8d43-4b4a9d83e07c",
+      "TypeId": 1,
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4",
+      "IsSynced": true
+    },
+    {
+      "Id": "52b67c86-8f7a-4308-9f1c-0f80648068f6",
+      "TypeId": 1,
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4",
+      "IsSynced": true
+    },
+    {
+      "Id": "4ae884de-df9a-4b0d-a0f8-0c3a8e242131",
+      "TypeId": 1,
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4",
+      "IsSynced": true
+    },
+    {
+      "Id": "9ddd9a37-972e-4309-adf0-7f0752a429dd",
+      "TypeId": 73,
+      "SyncedInMigrationName": "synced12c4fe0e4e505a463789ad0bf78f6f5dc4",
+      "IsSynced": true
+    }
+  ],
+  "Schemas": [
+    "dbo"
+  ],
+  "MigrationHistroyTableName": null,
+  "MigrationsTableName": "MaestroMigrations_14c0076076ef4369b539b549d328afaa",
+  "HasHistories": true,
+  "IsEncrypted": true,
+  "CreatedBy": 30,
+  "CreationDate": "2025-01-03T12:27:25.6418881Z",
+  "ModifiedBy": 30,
+  "ModificationDate": "2025-01-04T16:57:22.9238837Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "14c00760-76ef-4369-b539-b549d328afaa",
+  "Code": "",
+  "Name": "Rousan_Leave_Request_DS"
+}
